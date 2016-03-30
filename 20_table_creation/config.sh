@@ -1,0 +1,5 @@
+SERVER="localhost"
+DB_URL="jdbc:hive2://$SERVER:10000/"
+DRIVER_CLASS="org.apache.hive.jdbc.HiveDriver"
+USERNAME="hadoop"
+DATAPATH="/user/hadoop/"

@@ -1,0 +1,16 @@
+{
+	"type": "record",
+	"name": "narrowschema",
+	"fields": [
+		 {"name": "ip", "type": "string"},
+	     {"name": "user_name", "type": "string"},
+	     {"name": "unix_time", "type": "long"},
+	     {"name": "time", "type": "string"},
+	     {"name": "url", "type": "string"},
+	     {"name": "domain", "type": "string"},
+	     {"name": "page", "type": "string"},
+	     {"name": "port", "type": "int"},
+	     {"name": "referer", "type": "string"},
+	     {"name": "agent", "type": "string"} 
+	    ]
+}
