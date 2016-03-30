@@ -5,9 +5,13 @@ How do you choose the best data format for your project/environment?
 We share a general approach here: <http://www.svds.com/how-to-choose-a-data-format> and share more information about the data formats and tests we ran in different environemnts here: <http://www.svds.com/dataformats> 
 
 Here you can find the code used to run the tests.
+
 We split into thre steps:
+
 1. Data Creation - creates the fake data to use in tests
-2. Table Creation - creates the tables stored in text, sequence, avro, orc, and parquet.
+
+2. Table Creation - creates the tables stored in text, sequence, avro, orc, and parquet
+
 3. Queries - tests for reading data from tables
 
 ## Prerequisites
